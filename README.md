@@ -61,37 +61,40 @@ on-site measurements and drawings
 ------
 
 **Designlab | UX Academy**  
-July 2018
-* Published an online course on basic design principles for data visualization design principles course with over 1000 students enrolled 
+Dec 2018 - June 2019
+* UX & UI Design Immersive Course
 
-**Emoji Sentiment Analysis - Masters Thesis**  
-January 2017 - May 2017
-* Developed sentiment algorithm which combined emoji and text sentiment using Python, R and D3.js on approximately ~1.8 million tweets scraped from Twitter API 
-
-**Presidential Primary Twitter Data Visualization**  
-January 2016 – May 2016
-*	Led a team of 4 students to create interactive data visualization website consisting of sentiment analysis results, social networks and heatmaps of tweets during the presidential primary campaigns
-*	Sole student in group with experience in D3.js and python, debugged and troubleshot code, managed feasible expectations given collective skillset and helped design and implement analysis and visualizations
-
-**Ikura**  
-April 2015 - August 2015
-* Built a debt payment plan web application using Python, Javascript, HTML, CSS, PostgreSQL, SQLAlchemy, pandas, NumPy, Flask, Jinja, Bootstrap and D3.js  
+**B.Design in Architecture | University of Sydney**  
+Feb 2012- - March 2015
+* Designed physical user experiences via built environments.
 
 
 ------ 
 
-<h4 align="center"> Education </h4>
+<h4 align="center"> My Technical Expertise </h4>
 
 ------
 
-**Master of Arts in Quantitative Methods – Data Science Concentration**          
-**Columbia University** New York, NY  
-Sep. 2015 – May 2017
+**Skills**  
+* User Research
+* Task / User Flows
+* Usability Test
+* Wireframing
+* User Interface Design
+* Prototyping
+* Interaction
 
-**Software Engineering Fellowship**  
-**Hackbright Academy** San Francisco, CA  
-April 2015 - June 2015
+**Tools**  
+* Sketch / Figma
+* Adobe Suite
+* Invision
+* Zeplin
 
-**Bachelor of Arts in Security Studies and International Relations**  
-**Boston University** Boston, MA  
-Sep. 2008 – May 2012 
+
+**Other**  
+* Model Making
+* Rhino
+* AutoCad
+* SketchUp
+* 3ds Max
+
