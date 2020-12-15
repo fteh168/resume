@@ -4,8 +4,8 @@
 ------ 
 
 <h4 align="center"> Professional Experience </h4>
-<align=
-center">Based in Brisbane. Australia & willing to work remotely and relocate.</>
+<h5align=
+center">Based in Brisbane. Australia & willing to work remotely and relocate.</h5>
 
 ------
 **UX/UI Designer**  
