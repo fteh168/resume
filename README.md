@@ -32,20 +32,35 @@ mobile projects, 1-1 mentorship, and group critique sessions.
 navigate ways easier inside a complex building
 • Conducted user research to find the users’ pain points
 • Created wireframes and prototypes for usability testing
+*Spotify
+• Added new features to the existing app
+• Conducted user research to understand users’ behaviours
+• Followed the original branding guidelines for 'design consistency
+• Created hi-fi wireframes and prototypes for usability testing
+*Bubblefuse
+• Working with the startup founder whom I met during the meetup and I helped visualise and assisted with
+the conceptual design stage
+• Created a platform for Professionals to keep track and find events of
+accredited learnings
+• Conducted user research on professionals who are currently doing
+a CPD
+• Designed wireframes and prototypes for usability testing
 
-**Operations Analyst**  
-**Counsyl Inc.** South San Francisco, CA  
-December 2013 - September 2014
-* Analyzed 3,500 samples a month, collaborated with sales team to reduce error samples by 5% in Q2 by identifying clinics in need of assistance in adjusting internal protocols to align with new partnership  
-* Developed and documented solutions for internal and external facing bugs and increased turnaround time of lab samples and visibility of lab process
+**Interior Designer**  
+**Incorp Solutions.** Brisbane, Australia
+Jan 2018 - Aug 2018
+* Assisting and working along with Senior Interior Designers, Project
+Managers and suppliers across a variety of different projects and stages
+* Site visits for defect inspections and assisting the Cad drafter with
+on-site measurements and drawings
 
 ------ 
 
-<h4 align="center"> Relevant Projects </h4>
+<h4 align="center"> Education </h4>
 
 ------
 
-**A Beginner’s Guide to Data Visualization Design**  
+**Designlab | UX Academy**  
 July 2018
 * Published an online course on basic design principles for data visualization design principles course with over 1000 students enrolled 
 
