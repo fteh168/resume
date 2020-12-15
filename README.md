@@ -1,14 +1,14 @@
-<h1 align="center"> Alexandra Plassaras </h1>
-<h6 align="center"> aplassaras@gmail.com :sparkles: Github: amp5 </h6>
+<h1 align="center"> Fei Ling Teh </h1>
+<h6 align="center"> fteh168@gmail.com :sparkles: www.feiteh.com </h6>
 
 ------ 
 
 <h4 align="center"> Professional Experience </h4>
 
 ------
-**Data Scientist (Decision Scientist)**  
-**Udemy** San Francisco, CA  
-June 2017 - July 2018
+**UX/UI Designer**  
+**WEWumbo** Melbourne, Australia  
+Sep2020 - Current
 * Uncovered up to $12 million revenue lost from fraudulent course coupons, identified conversion attributes for B2B product, conducted market segmentation and sentiment analysis on support tickets using R
 * Built and maintained AWS Redshift SQL tables through pinball data workflow manager using Python, identified data gaps for B2B product resulting in open requisitions for Business Intelligence Engineer Team
 * Team lead on obfuscating data tables in preparation for GDPR, archived 400+ outdated Chartio dashboards
