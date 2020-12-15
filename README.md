@@ -8,23 +8,30 @@
 ------
 **UX/UI Designer**  
 **WEWumbo** Melbourne, Australia  
-Sep2020 - Current
-* Uncovered up to $12 million revenue lost from fraudulent course coupons, identified conversion attributes for B2B product, conducted market segmentation and sentiment analysis on support tickets using R
-* Built and maintained AWS Redshift SQL tables through pinball data workflow manager using Python, identified data gaps for B2B product resulting in open requisitions for Business Intelligence Engineer Team
-* Team lead on obfuscating data tables in preparation for GDPR, archived 400+ outdated Chartio dashboards
+Sep 2020 - Current
+* As a sole designer working at a startup remotely with the Founder, Business Analyst and
+client service in Melbourne and Engineers in Vietnam delivering mockups and
+hi-fi wireframes for WEWumbo products (a residential and building
+management platform) and customers.
 
-**Pro Advisor (Python Tutor)**  
-**Codecademy** New York City, NY (Remote)  
-September 2016 - January 2017
-* Assisted ~45 students per week (~180 per month) in understanding new concepts in Python, SQL, HTML, CSS, Git, and Javascript through problem-solving and debugging student code 
+**Design Assistant**  
+**Cubiko** Brisbane, Australia 
+Feb 2020 - April 2020
+* Work closely with the Founder, product manager, senior designer (Aginic
+partner), engineers and analyst to deliver an excellent easy-to-understand
+dashboards for General Practices help them improve the key parts of their
+business performance across Australia.
 
-**Data Science Intern**  
-**Inamoto & Co.** Brooklin, NY  
-June 2016 - August 2016
-* Analyzed 20,000+ JSON user-level behavior data in R to understand alpha mobile app usage
-*	Streamlined analysis process, implemented code to clean, join and visualize data for alpha and beta versions
-* Provided business analytics and insights that measured NLP algorithm accuracy to communicate data for major fashion retailer on product results leading to beta Facebook messenger app development
-* Collaborated with international team of product managers, graphic designers, engineers and analysts 
+**UX Academy Student**  
+**Designlab** San Francisco 
+Dec 2018 - June 2019
+* 480 hours of design program covering UX design theory & practice, web &
+mobile projects, 1-1 mentorship, and group critique sessions.
+*Navio
+• Designed an end-to end parking nav app to help users
+navigate ways easier inside a complex building
+• Conducted user research to find the users’ pain points
+• Created wireframes and prototypes for usability testing
 
 **Operations Analyst**  
 **Counsyl Inc.** South San Francisco, CA  
